@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "reportRoot": "%ProgramData%\\WindowsCleanupAuditor\\Reports",
+  "quarantineRoot": "%ProgramData%\\WindowsCleanupAuditor\\Quarantine",
+  "oldFileDays": 7,
+  "includeSteamOrphanAudit": true,
+  "includeCaches": true,
+  "explicitCandidates": [],
+  "protectedNamePatterns": [
+    "Steam",
+    "Riot",
+    "Vanguard",
+    "EasyAntiCheat",
+    "Xbox",
+    "Microsoft",
+    "Wallpaper Engine",
+    "Qobuz",
+    "WindowsLockdownKit"
+  ]
+}
+
